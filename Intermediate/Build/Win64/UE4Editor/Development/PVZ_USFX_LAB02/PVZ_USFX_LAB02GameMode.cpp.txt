@@ -1,0 +1,41 @@
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\PVZ_USFX_LAB02GameMode.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02Pawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\PVZ_USFX_LAB02Pawn.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\Zombie.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Zombie.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\Plant.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Plant.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\Potenciador.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Potenciador.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\MegaSol.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\MegaSol.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\ZombieComun.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\ZombieComun.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\ZombieCono.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\ZombieCono.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\ZombieCubo.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\ZombieCubo.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\ZombieSenal.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\ZombieSenal.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\Lanzaguisantes.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Lanzaguisantes.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\Repetidora.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Repetidora.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\Girasol.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Girasol.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\Nuez.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Nuez.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\Hongo.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Hongo.generated.h

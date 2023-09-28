@@ -1,0 +1,5 @@
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\ZombieComun.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Source\PVZ_USFX_LAB02\Zombie.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Zombie.generated.h
+C:\src_UE_ejemplos\PVZ_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\ZombieComun.generated.h

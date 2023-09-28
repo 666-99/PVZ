@@ -1,0 +1,7 @@
+C:\Users\Rojas\Documents\Unreal Projects\PlantasvsZombies\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\DebugGame\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
+C:\Users\Rojas\Documents\Unreal Projects\PlantasvsZombies\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Plant.h
+C:\Users\Rojas\Documents\Unreal Projects\PlantasvsZombies\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Plant.generated.h
+C:\Users\Rojas\Documents\Unreal Projects\PlantasvsZombies\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02Projectile.h
+C:\Users\Rojas\Documents\Unreal Projects\PlantasvsZombies\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\PVZ_USFX_LAB02Projectile.generated.h
+C:\Users\Rojas\Documents\Unreal Projects\PlantasvsZombies\PVZ_USFX_LAB02-master\Source\PVZ_USFX_LAB02\Zombie.h
+C:\Users\Rojas\Documents\Unreal Projects\PlantasvsZombies\PVZ_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Zombie.generated.h
